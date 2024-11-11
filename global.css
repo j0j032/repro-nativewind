@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --acme-neutral-500: #8590AD;
+    --acme-blue-500: #427AEF;
+    --acme-red-500: #E34F45;
+    --acme-orange-500: #F58F3D;
+    --acme-green-500: #3EA876;
+  }
+}
